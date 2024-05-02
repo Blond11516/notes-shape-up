@@ -303,3 +303,70 @@
   2. "I've validated my approach"
   3. "I'm far enough with what I've built that I don't believe there are other unknowns"
 - Focus on getting any critical/risky work over the hill before getting stuff back down. Finishing touches should be left for the end of the project.
+
+### Decide When to Stop
+
+- Compare to baseline rather than ideal
+  - How much progress have you made?
+  - Is it worth it to make the customers wait longer?
+  - "Never good enough" vs. "Better than what they have now"
+- Limits motivate trade-offs
+- QA isn't a gate, it's an enabler for the next level of quality
+  - The basis of quality comes from the team itself
+  - Everything QA finds is a nice-to-have by default
+  - The teams can triage and promote as necessary
+  - Best to use a separate list for QA items and move them in the main list as necessary
+- May only extend a project if:
+  1. Remaining tasks are true must-haves that have survired rigorous scope hammering
+  2. Everything that's left is downhill
+  - Unknowns are too risky, better to go back to shaping and wait for the next cycle
+- Usually don't extends even if criterias are met
+  - Cool-down can be used to tie loose ends, but only exceptionally (if too frequent, the problem lies in shaping)
+
+### Move On
+
+- Don't take customer feedback too close to heart
+- Customer requests and feedback that arise after a release are input for a new round of shaping
+
+## Appendices
+
+### Adjust to your size
+
+- Base concepts exist regardless of size: shaping (trade-offs, rabbit holes), betting (fixed appetites, complete focus), building
+- Small enough to wing it
+  - In small teams, everyone wears multiple hats
+  - Be deliberate about the hat you're currently wearing
+  - Most structure is superfluous
+    - Be flexible with cool-down, cycle duration, pitches, betting table, etc.
+- Big enough to specialize
+  - With bigger teams, structure becomes primordial
+  - Create specialized teams (ops, platform, support, product) to liberate the core team and let them focus of projets
+
+### How to begin to Shape Up
+
+- Option A: One six-week experiment
+
+  1. Shape a six-week project. Be conservative, you're probably underestimating
+  2. Get a team of one designer and two programmers. Guarantee they won't be interrupted.
+  3. No betting table. Just plan for the team to do the one project.
+  4. Kickoff the project with a presentation and let them make their tasks.
+  5. Give the team a dedicated space or channel to work closely together
+  6. Encourage the team to Get One Piece Done
+
+  Don't worry about scopes or showing progress. Just profit from the dedicated uninterrupted time.
+  Once the project is completed successfully, use it as a case study to expand Shape Up.
+
+- Option B: Start with shaping
+
+  Even if you can't dedicate a team for a complete cycle, start by focusing on shaping and then build through your existing process.
+  Shaping by itself will bring benefits and empower the teams.
+
+- Option C: Start with cycles
+
+  Keep the current process, but try to work in six-week cycles. The lower management overhead will give the teams more breating room and let them naturally come to shaping to better utilize their time.
+
+- Fix shiping first
+  - No point in having a great shaping process if you can't ship features
+- Focus on the end result
+  - Don't worry about giving the teams too much freedom
+  - Instead of trying to optimize every individual's time, focus on the goal. How will you feel if you ship your bet after 6 weeks?
